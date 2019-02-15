@@ -17,4 +17,4 @@ phrase = gets.chomp
 
 while phrase != "BYE"
   if phrase == phrase.downcase
-    puts ""
+    puts "Gr"
