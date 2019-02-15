@@ -13,3 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 puts "Say something to Grandma"
+phrase = gets.chomp
