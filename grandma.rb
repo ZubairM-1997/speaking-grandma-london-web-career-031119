@@ -19,7 +19,6 @@ while bye < 3
   response = gets.chomp 
   if response == "I LOVE YOU" 
     puts "I LOVE YOU TOO PUMPKIN!" 
-    bye = (bye+1) 
   elsif response == response.upcase 
     puts "NO! NOT SINCE " + 1938 + "!" 
   else 
