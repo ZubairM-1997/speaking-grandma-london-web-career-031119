@@ -15,4 +15,4 @@
 puts "Say something to Grandma"
 phrase = gets.chomp
 
-while phrase 
+while phrase != "BYE"
